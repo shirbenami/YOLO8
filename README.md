@@ -1,6 +1,6 @@
 (Train YOLO v8 on a Custom Dataset)
 
-Installation:
+*Installation*:
 
 git clone https://github.com/MaryamBoneh/Vehicle-Detection
 cd Vehicle-Detection
